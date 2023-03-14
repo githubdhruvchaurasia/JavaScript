@@ -36,9 +36,9 @@
 // console.log(friends[2]);
 // console.log(friends[4]);
 
-function hello() {
-  // logic
-  console.log("Hello there Hob");
-  console.log("Hello there Nob");
-  console.log("Hello there susy");
-}
+// function hello() {
+//   // logic
+//   console.log("Hello there Hob");
+//   console.log("Hello there Nob");
+//   console.log("Hello there susy");
+// }
